@@ -50,7 +50,13 @@
 - :zap: In my free time, I trade indices 📈 and paint large paintings 🎨.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nadine-e-35694420b)
+  
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadine-codes&theme=modern-lilac)](https://git.io/streak-stats)
 
+</div>
+  
 <!--
 **nadine-codes/nadine-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
