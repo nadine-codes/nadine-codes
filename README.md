@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi! 👋 My name is Nadine. Welcome to my magic lair powered by my brain that never turns off.
+
+<div id="badges">
+  <a href="www.linkedin.com/in/nadine-el">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/nadinecodes">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhlZWViMGUyOTU2MzNhYjJkNWFjNjA2NDkzZGQ2MzhmM2IzZTVhZiZjdD1n/A06M0oRcbsoyhmNFXh/giphy.gif" width="525" height="300"/>
@@ -8,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-:wave: Hi! My name is Nadine and I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+:wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
