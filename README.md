@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
-**nadine-codes/nadine-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
   <img src="https://tenor.com/view/new-girl-cheering-excited-jess-zooey-deschanel-gif-8040120" width="600" height="300"/>
 </div>
+
+<!--
+**nadine-codes/nadine-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
