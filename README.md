@@ -1,4 +1,4 @@
-### Hi! 👋 My name is Nadine. Welcome to my magic lair powered by my brain that never turns off.
+### Hi! 👋 My name is Nadine. Welcome to my magic lair 🪄 powered by my brain that never turns off.
 
 <div id="badges">
   <a href="www.linkedin.com/in/nadine-e-35694420b">
@@ -26,7 +26,7 @@
 
 - :seedling: Exploring Mobile App Development.
 
-- :zap: In my free time, I trade indices and paint large paintings. 📈🎨
+- :zap: In my free time, I trade indices 📈 and paint large paintings 🎨.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nadine-e-35694420b)
 
