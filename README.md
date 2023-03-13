@@ -1,7 +1,7 @@
 ### Hi! 👋 My name is Nadine. Welcome to my magic lair powered by my brain that never turns off.
 
 <div id="badges">
-  <a href="www.linkedin.com/in/nadine-el">
+  <a href="www.linkedin.com/in/nadine-e-35694420b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
