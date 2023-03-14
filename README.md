@@ -2,7 +2,7 @@
 
 <div id="badges">
 <div align="center">
-  <a href="www.linkedin.com/in/nadine7">
+  <a href="https://www.linkedin.com/in/nadine7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="hinadine7@proton.me">
