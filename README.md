@@ -1,17 +1,5 @@
 ### Hi! 👋 My name is Nadine. Welcome to my magic lair 🪄
 
-<div id="badges">
-<div align="center">
-  <a href="https://www.linkedin.com/in/nadine7">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="hinadine7@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/nadinecodes">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhlZWViMGUyOTU2MzNhYjJkNWFjNjA2NDkzZGQ2MzhmM2IzZTVhZiZjdD1n/A06M0oRcbsoyhmNFXh/giphy.gif" width="525" height="300"/>
