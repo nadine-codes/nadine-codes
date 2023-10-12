@@ -15,13 +15,13 @@
 
 ### :woman_technologist: About Me :
 
-:wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+:wave: I am a Product Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
 
-- :telescope: I’m working as a Product Designer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Product Designer and contributing to building web & mobile applications.
 
 - :seedling: Exploring Mobile App Developmet & Data Visualization.
 
-- :zap: In my free time, I trade indices 📈 and paint large paintings 🎨.
+- :zap: In my free time, I trade currencies indices 📈 and do yoga🧘‍♀️.
 
   
 <div align="center">
