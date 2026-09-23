@@ -6,11 +6,38 @@
 </div>
 
 ---
-  
-<div align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
-  
+
+### Technologies and Tools
+
+**General Purpose**
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,graphql,js,ts,html,css,tailwind,webflow" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+
+**Miscellaneous**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode" />
+
+**Cloud Services**
+
+<img src="https://skillicons.dev/icons?i=vercel,firebase,aws" />
+
+### Showcased Projects
+
+- [PeptSight](https://peptsight.com) - Real-time peptide intelligence powered by AI agents, Apify Actors, and live web data.
+- [Helix Health](https://tryhelixhealth.com) - AI health-intelligence layer that connects fragmented health signals into a single causal model.
+
 ---  
 
 ### :woman_technologist: About Me :
