@@ -13,25 +13,37 @@
 
 <img src="https://skillicons.dev/icons?i=python" />
 
+`Python`
+
 **Web Development**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,graphql,js,ts,html,css,tailwind,webflow" />
+
+`React` `Next.js` `Node.js` `Express` `GraphQL` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS` `Webflow`
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase" />
 
+`MongoDB` `PostgreSQL` `Supabase`
+
 **Design**
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+
+`Figma` `Photoshop` `Illustrator`
 
 **Miscellaneous**
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode" />
 
+`Git` `GitHub` `GitHub Actions` `Docker` `VS Code`
+
 **Cloud Services**
 
 <img src="https://skillicons.dev/icons?i=vercel,firebase,aws" />
+
+`Vercel` `Firebase` `AWS`
 
 ### Showcased Projects
 
