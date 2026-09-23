@@ -47,8 +47,8 @@
 
 ### Showcased Projects
 
-- [PeptSight](https://peptsight.com) - Real-time peptide intelligence powered by AI agents, Apify Actors, and live web data.
-- [Helix Health](https://tryhelixhealth.com) - AI health-intelligence layer that connects fragmented health signals into a single causal model.
+- [PeptSight.com](https://peptsight.com) - Real-time peptide intelligence powered by AI agents, Apify Actors, and live web data.
+- [TryHelixHealth.com](https://tryhelixhealth.com) - AI health-intelligence layer that connects fragmented health signals into a single causal model.
 
 ---  
 
