@@ -49,7 +49,7 @@
 
 - [Coverage Agent](https://coverage-agent-rosy.vercel.app) 🥇 - AI agent that verifies a patient's dental insurance before surgery, so coordinators skip hours on hold.
 - [Market Finds](https://virtual-farmers-market.vercel.app) 🥈 - 3D pixel-art farmers market of real San Francisco small businesses, with AI vendors and a Gift Finder.
-- [Kyn AI](https://kyn-xi.vercel.app) - Autonomous engineer that diagnoses incidents, ships fixes, and writes the customer back in minutes.
+- [Kyn AI](https://kyn-xi.vercel.app) 🧡 - Autonomous engineer that diagnoses incidents, ships fixes, and writes the customer back in minutes.
 - [HealthSurface.com](https://www.healthsurface.com) - Health news, funding and jobs, labeled by source type and summarized by AI.
 - [PeptSight.com](https://peptsight.com) 🥉 + CTO Prize 🏆 - Real-time peptide intelligence powered by AI agents, Apify Actors, and live web data.
 - [TryHelixHealth.com](https://tryhelixhealth.com) - AI health-intelligence layer that connects fragmented health signals into a single causal model.
